@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Bonjour tout le monde, je suis <span className="purple">Axel Aragon </span>
-            je viens de<span className="purple"> Sarthe, en France.</span> mais je suis désormais à<span className="purple"> Paris.</span>
+            je viens de<span className="purple"> Sarthe, en France</span> mais je suis désormais à<span className="purple"> Paris.</span>
             <br />Après 3 années d'apprentissage en obtenant un <span className="purple">BTS SIO</span> ainsi qu'une licence <span className="purple">CDA</span>.
             Je poursuis ma<span className="purple"> 4ème année</span> d'apprentissage en préparant un Master Architecte Technique en Informatique et Réseaux, <span className="purple">option Logiciel</span>.
             <br />
